@@ -1,0 +1,21 @@
+.dummy{
+  margin-left: 30px;
+}
+.price{
+  font-weight: bold;
+}
+.quan{
+  font-weight: bold;
+}
+.card-text{
+  width: 500px;
+}
+.shipping{
+  font-weight: bold;
+}
+.container{
+  margin-top: 20px;
+}
+img{
+  height: 100% !important;
+}
